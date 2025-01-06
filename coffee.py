@@ -5,7 +5,7 @@ class CoffeeShop:
         
         self.orders = []
         self.menu = {
-            "espresso": 159.99,
+            "espresso": 120.00,
             "americano": 198.99,
             "cappuccino": 249.60,
             "latte": 299.95,
