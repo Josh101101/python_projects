@@ -10,6 +10,7 @@ class CoffeeShop:
             "cappuccino": 249.60,
             "latte": 199.95,
             "mocha": 349.50,
+            "Flat white": 299.50
         }
         
     def display_menu(self):
