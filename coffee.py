@@ -8,7 +8,7 @@ class CoffeeShop:
             "espresso": 120.00,
             "americano": 198.99,
             "cappuccino": 249.60,
-            "latte": 299.95,
+            "latte": 199.95,
             "mocha": 349.50,
         }
         
