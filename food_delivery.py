@@ -7,15 +7,27 @@ class FoodDeliveryApp:
         
         self.menu = {
             
-            1 : {"name": "Pizza", "price": 10.99},
+            1 : {"name": "Palak paneer", "price": 10.99},
             
-            2 : {"name": "Burger", "price": 5.99},
+            2 : {"name": "Paneer butter masala", "price": 15.99},
             
-            3 : {"name": "Pasta", "price": 8.99},
+            3 : {"name": "Paneer tikka masala", "price": 18.99},
             
-            4 : {"name": "Salad", "price": 4.99},
+            4 : {"name": "Paratha", "price": 14.99},
             
-            5 : {"name": "Fries", "price": 2.99},
+            5 : {"name": "Rajma chaval	", "price": 12.99},
+            
+            6 : {"name": "Chole bhature", "price": 16.99},
+            
+            7 : {"name": "Pav bhaji", "price": 13.99},
+            
+            8 : {"name": "Dosa", "price": 11.99},
+            
+            9 : {"name": "Idli sambhar", "price": 10.99},
+            
+            10 : {"name": "Vada pav", "price": 8.99}
+            
+            
             
         }
         
